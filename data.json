@@ -16,7 +16,7 @@
         "armed": "Firearm",
         "lat": 38.0927,
         "lon": -97.9095,
-        "sources": null,
+        "sources": ["https://www.kwch.com/content/news/404980726.html"],
         "created_at": "2017-07-16 03:04:16.614685",
         "updated_at": "2017-07-16 03:22:21.379506"
     },
