@@ -58,7 +58,9 @@
         "armed": "Knife",
         "lat": 39.599506,
         "lon": -86.1270703,
-        "sources": null,
+        "sources": [
+        "http://www.dailyjournal.net/2016/12/12/body_camera_video_shows_policeaction_shooting"
+        ],
         "created_at": "2017-07-16 03:04:16.62172",
         "updated_at": "2017-07-16 03:23:22.457367"
     },
@@ -79,7 +81,9 @@
         "armed": "Non-lethal firearm",
         "lat": 35.1094018,
         "lon": -114.5926673,
-        "sources": null,
+        "sources": [
+        "http://www.mohavedailynews.com/news/woman-officer-in-shooting-id-d/article_0200fe42-c361-11e6-81d1-a73d2eaa044e.html"
+        ],
         "created_at": "2017-07-16 03:04:16.624906",
         "updated_at": "2017-07-16 03:23:22.478959"
     },
@@ -100,7 +104,9 @@
         "armed": "Firearm",
         "lat": 33.386936,
         "lon": -84.2823964,
-        "sources": null,
+        "sources": [
+        "https://www.fox5atlanta.com/news/police-shooting-friends-say-police-should-never-have-taken-fatal-shot"
+        ],
         "created_at": "2017-07-16 03:04:16.627976",
         "updated_at": "2017-07-16 03:23:22.503731"
     },
@@ -121,7 +127,9 @@
         "armed": "Unknown",
         "lat": 47.9658866,
         "lon": -122.2135984,
-        "sources": null,
+        "sources": [
+        "https://www.heraldnet.com/news/officers-fatal-shooting-of-suspect-ruled-justified/"
+        ],
         "created_at": "2017-07-16 03:04:16.631074",
         "updated_at": "2017-07-16 03:23:22.546219"
     },
@@ -142,7 +150,9 @@
         "armed": "Firearm",
         "lat": 33.9164483,
         "lon": -118.3091562,
-        "sources": null,
+        "sources": [
+        "https://lasentinel.net/ryan-joseph-shot-and-killed-by-police.html"
+        ],
         "created_at": "2017-07-16 03:04:16.635414",
         "updated_at": "2017-07-16 03:23:22.574238"
     },
@@ -163,7 +173,9 @@
         "armed": "Non-lethal firearm",
         "lat": 39.2509238,
         "lon": -80.3123114,
-        "sources": null,
+        "sources": [
+        "https://www.wvnews.com/theet/news/local/sheriff-fugitive-shot-when-deputies-attempt-to-serve-a-warrant/article_ac3d6112-a486-5c48-9150-94b9ed16b827.html"
+        ],
         "created_at": "2017-07-16 03:04:16.641925",
         "updated_at": "2017-07-16 03:28:58.050204"
     },
@@ -184,7 +196,9 @@
         "armed": "Firearm",
         "lat": 30.8354702,
         "lon": -88.0973162,
-        "sources": null,
+        "sources": [
+        "https://www.al.com/news/mobile/2017/01/saraland_police_officer_shooti.html"
+        ],
         "created_at": "2017-07-16 03:04:16.646646",
         "updated_at": "2017-07-16 03:29:41.755508"
     },
@@ -1213,7 +1227,9 @@
         "armed": "No",
         "lat": 36.3975596,
         "lon": -97.896466,
-        "sources": null,
+        "sources": [
+        "https://okcfox.com/news/local/shooting-suspect-dies-during-standoff-in-enid"
+        ],
         "created_at": "2017-07-16 03:04:16.875628",
         "updated_at": "2017-07-16 03:29:43.342213"
     },
@@ -1234,7 +1250,9 @@
         "armed": "Knife",
         "lat": 39.934174,
         "lon": -77.6462709,
-        "sources": null,
+        "sources": [
+        "https://fox43.com/2016/11/07/police-id-man-killed-in-officer-involved-shooting-at-chambersburg-hospital/s"
+        ],
         "created_at": "2017-07-16 03:04:16.883858",
         "updated_at": "2017-07-16 03:29:43.373325"
     },
@@ -1255,7 +1273,9 @@
         "armed": "Unknown",
         "lat": 32.5422468,
         "lon": -94.9560509,
-        "sources": null,
+        "sources": [
+        "https://www.kltv.com/story/33682098/gladewater-police-release-statement-body-cam-video-of-officer-involved-shooting/"
+        ],
         "created_at": "2017-07-16 03:04:16.891716",
         "updated_at": "2017-07-16 03:29:43.403832"
     },
@@ -1276,7 +1296,9 @@
         "armed": "Unknown",
         "lat": 37.2263339,
         "lon": -86.6910074,
-        "sources": null,
+        "sources": [
+        "https://www.wbko.com/content/news/Bowling-Green-man-dead-after-officer-involved-shooting-in-Butler-County-400165321.html"
+        ],
         "created_at": "2017-07-16 03:04:16.899774",
         "updated_at": "2017-07-16 03:29:43.440012"
     },
@@ -1297,7 +1319,9 @@
         "armed": "Other",
         "lat": 37.4740011,
         "lon": -81.6998327,
-        "sources": null,
+        "sources": [
+        "https://wchstv.com/news/local/state-police-say-man-shot-killed-after-he-threatened-troopers-with-hammer"
+        ],
         "created_at": "2017-07-16 03:04:16.906872",
         "updated_at": "2017-07-16 03:29:43.856227"
     },
@@ -1318,7 +1342,9 @@
         "armed": "No",
         "lat": 41.8608048,
         "lon": -80.8024072,
-        "sources": null,
+        "sources": [
+        "https://www.news5cleveland.com/news/local-news/oh-ashtabula/officer-involved-shooting-in-ashtabula"
+        ],
         "created_at": "2017-07-16 03:04:16.914318",
         "updated_at": "2017-07-16 03:29:43.909082"
     },
@@ -1339,7 +1365,7 @@
         "armed": "Unknown",
         "lat": 39.0616431,
         "lon": -108.5576814,
-        "sources": null,
+        "sources": ["https://www.nbc11news.com/content/news/410298735.html"],
         "created_at": "2017-07-16 03:04:16.922128",
         "updated_at": "2017-07-16 03:29:43.944771"
     },
@@ -1360,7 +1386,9 @@
         "armed": "Firearm",
         "lat": 61.2175791,
         "lon": -149.8349215,
-        "sources": null,
+        "sources": [
+        "https://www.adn.com/alaska-news/crime-courts/2017/04/26/man-killed-in-shootout-with-police-last-year-was-responsible-for-5-homicides-police-say/"
+        ],
         "created_at": "2017-07-16 03:04:16.929121",
         "updated_at": "2017-07-16 03:29:43.972924"
     },
@@ -1381,7 +1409,9 @@
         "armed": "Other",
         "lat": 32.9916734,
         "lon": -80.1039488,
-        "sources": null,
+        "sources": [
+        "https://www.live5news.com/story/33718066/man-who-died-after-altercation-with-charleston-county-deputies-identified/"
+        ],
         "created_at": "2017-07-16 03:04:16.936131",
         "updated_at": "2017-07-16 03:29:44.0252"
     },
@@ -1402,7 +1432,9 @@
         "armed": "Vehicle",
         "lat": 39.9625845,
         "lon": -76.7277883,
-        "sources": null,
+        "sources": [
+        "https://www.nbc12.com/story/33726536/petersburg-man-shot-to-death-after-dragging-pa-trooper/"
+        ],
         "created_at": "2017-07-16 03:04:16.941201",
         "updated_at": "2017-07-16 03:29:44.082151"
     },
@@ -1423,7 +1455,9 @@
         "armed": "Other",
         "lat": 30.4300328,
         "lon": -86.6410423,
-        "sources": null,
+        "sources": [
+        "https://www.nwfdailynews.com/news/20170517/okaloosa-deputy-cleared-in-fatal-shooting"
+        ],
         "created_at": "2017-07-16 03:04:16.945761",
         "updated_at": "2017-07-16 03:29:44.12235"
     },
@@ -1444,7 +1478,9 @@
         "armed": "Firearm",
         "lat": 35.0253522,
         "lon": -97.9571846,
-        "sources": null,
+        "sources": [
+        "https://kfor.com/2016/11/19/agents-investigating-deadly-officer-involved-shooting-in-chickasha/"
+        ],
         "created_at": "2017-07-16 03:04:16.951295",
         "updated_at": "2017-07-16 03:29:44.158579"
     },
@@ -1465,7 +1501,9 @@
         "armed": "Firearm",
         "lat": 39.1065629,
         "lon": -94.5880406,
-        "sources": null,
+        "sources": [
+        "https://fox4kc.com/2016/11/21/northland-teen-killed-gladstone-police-officer-shot-during-struggle/"
+        ],
         "created_at": "2017-07-16 03:04:16.957553",
         "updated_at": "2017-07-16 03:29:44.191463"
     },
@@ -1486,7 +1524,9 @@
         "armed": "Firearm",
         "lat": 29.7231938,
         "lon": -94.9715671,
-        "sources": null,
+        "sources": [
+        "https://www.beaumontenterprise.com/news/article/Dead-suspect-in-police-chase-had-a-criminal-10642469.php"
+        ],
         "created_at": "2017-07-16 03:04:16.962222",
         "updated_at": "2017-07-16 03:29:44.228826"
     },
@@ -1528,7 +1568,7 @@
         "armed": "Firearm",
         "lat": 41.873796,
         "lon": -87.6960906,
-        "sources": null,
+        "sources": ["https://chicago.cbslocal.com/tag/cleotha-mitchell/"],
         "created_at": "2017-07-16 03:04:16.972448",
         "updated_at": "2017-07-16 03:29:44.297298"
     },
@@ -1549,7 +1589,9 @@
         "armed": "Firearm",
         "lat": 30.423687,
         "lon": -91.145301,
-        "sources": null,
+        "sources": [
+        "http://www.wbrz.com/news/district-attorney-releases-new-information-on-2016-shooting-of-terrell-walker/"
+        ],
         "created_at": "2017-07-16 03:04:16.975893",
         "updated_at": "2017-07-16 03:29:44.330671"
     },
@@ -1570,7 +1612,9 @@
         "armed": "Disputed",
         "lat": 35.7427047,
         "lon": -81.3066154,
-        "sources": null,
+        "sources": [
+        "https://www.wbtv.com/story/33818389/family-says-man-fatally-shot-by-deputy-was-shot-before-by-police/"
+        ],
         "created_at": "2017-07-16 03:04:16.980415",
         "updated_at": "2017-07-16 03:29:44.364613"
     },
@@ -1591,7 +1635,9 @@
         "armed": "Other",
         "lat": 29.521769,
         "lon": -95.1925145,
-        "sources": null,
+        "sources": [
+        "https://abc13.com/news/victim-idd-after-officer-involved-shooting/1631210/"
+        ],
         "created_at": "2017-07-16 03:04:16.986698",
         "updated_at": "2017-07-16 03:29:44.4109"
     },
@@ -8710,7 +8756,9 @@
         "armed": "Firearm",
         "lat": 39.1605671,
         "lon": -119.7610111,
-        "sources": null,
+        "sources": [
+        "https://www.nevadaappeal.com/news/crime/manager-at-carson-city-senator-apartments-was-a-very-brave-lady-to-confront-a-man-with-a-gun-authorities-say/"
+        ],
         "created_at": "2017-07-16 03:04:18.608573",
         "updated_at": "2017-07-16 03:42:49.5724"
     },
