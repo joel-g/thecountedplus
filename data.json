@@ -58,7 +58,7 @@
         "armed": "Knife",
         "lat": 39.599506,
         "lon": -86.1270703,
-        "sources": null,
+        "sources": ["http://www.dailyjournal.net/2016/12/11/greenwood-police-shoot-kill-suspect/"],
         "created_at": "2017-07-16 03:04:16.62172",
         "updated_at": "2017-07-16 03:23:22.457367"
     },
