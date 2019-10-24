@@ -1143,7 +1143,7 @@
         "armed": "Non-lethal firearm",
         "lat": 39.5989683,
         "lon": -75.8209617,
-        "sources": null,
+        "sources": ["https://www.baltimoresun.com/news/crime/bs-md-motel-shooting-maryland-20161026-story.html"],
         "created_at": "2017-07-16 03:04:16.856993",
         "updated_at": "2017-07-16 03:29:43.206315"
     },
@@ -6110,7 +6110,7 @@
         "armed": "Firearm",
         "lat": 39.3090543,
         "lon": -76.6104761,
-        "sources": null,
+        "sources": ["https://baltimore.cbslocal.com/2016/10/18/no-charges-filed-against-officers-who-fatally-shot-man-son/", "https://baltimore.cbslocal.com/2016/04/01/father-son-identified-as-armed-suspects-killed-in-police-shooting/"]
         "created_at": "2017-07-16 03:04:17.985515",
         "updated_at": "2017-07-16 03:31:24.419865"
     },
@@ -7433,7 +7433,7 @@
         "armed": "Firearm",
         "lat": 39.3017596,
         "lon": -76.6536266,
-        "sources": null,
+        "sources": ["https://www.wbaltv.com/article/police-man-fired-several-shots-at-officers-in-west-baltimore/7101771#"],
         "created_at": "2017-07-16 03:04:18.305756",
         "updated_at": "2017-07-16 03:41:22.527664"
     },
@@ -7643,7 +7643,7 @@
         "armed": "Firearm",
         "lat": 39.3692731,
         "lon": -76.8139115,
-        "sources": null,
+        "sources": ["https://baltimore.cbslocal.com/2016/08/02/police-fatally-shoot-armed-woman-in-baltimore-county/", "http://data.baltimoresun.com/news/korryn-gaines/"],
         "created_at": "2017-07-16 03:04:18.362509",
         "updated_at": "2017-07-16 03:41:38.405923"
     },
@@ -8294,7 +8294,7 @@
         "armed": "Unknown",
         "lat": 39.3806313,
         "lon": -76.7161733,
-        "sources": null,
+        "sources": ["https://baltimore.cbslocal.com/2016/09/24/balto-co-police-id-man-killed-in-fbi-linked-bank-robbery-shooting/", "https://www.baltimorecountymd.gov/News/PoliceNews/iWatch/suspect-fleeing-pikesville-bank-robbery-shot-by-police"],
         "created_at": "2017-07-16 03:04:18.494174",
         "updated_at": "2017-07-16 03:42:18.611754"
     },
@@ -9598,7 +9598,7 @@
         "armed": "Non-lethal firearm",
         "lat": 39.7176554,
         "lon": -75.958603,
-        "sources": null,
+        "sources": "https://foxbaltimore.com/news/local/2-cecil-co-troopers-on-administrative-leave-following-trooper-involved-shooting", "https://www.wbaltv.com/article/woman-with-air-soft-gun-killed-by-troopers-inside-cecil-county-home/7098175",
         "created_at": "2017-07-16 03:04:18.832131",
         "updated_at": "2017-07-16 03:43:10.714934"
     },
@@ -10312,7 +10312,7 @@
         "armed": "No",
         "lat": 39.4921379,
         "lon": -76.3323305,
-        "sources": null,
+        "sources": ["https://www.nbcwashington.com/news/local/Army-Man-Killed-by-Sheriffs-Deputies-Was-soldier-371058411.html", "https://www.baltimoresun.com/maryland/harford/aegis/ph-ag-althea-court-incident-0304-20160302-story.html", "https://www.baltimoresun.com/maryland/harford/aegis/ph-ag-althea-court-shooting-reaction-0304-20160303-story.html", "https://apnews.com/65afa92db00b4fad9f43dd7f923f03d3"],
         "created_at": "2017-07-16 03:04:18.981328",
         "updated_at": "2017-07-16 03:43:22.894555"
     },
@@ -10711,7 +10711,7 @@
         "armed": "Firearm",
         "lat": 39.3090543,
         "lon": -76.6104761,
-        "sources": null,
+        "sources": ["https://baltimore.cbslocal.com/2016/10/18/no-charges-filed-against-officers-who-fatally-shot-man-son/", "https://baltimore.cbslocal.com/2016/04/01/father-son-identified-as-armed-suspects-killed-in-police-shooting/"]
         "created_at": "2017-07-16 03:04:19.05639",
         "updated_at": "2017-07-16 03:43:32.080787"
     },
@@ -13273,7 +13273,7 @@
         "armed": "Non-lethal firearm",
         "lat": 39.5989683,
         "lon": -75.8209617,
-        "sources": null,
+        "sources": ["https://www.baltimoresun.com/news/crime/bs-md-motel-shooting-maryland-20161026-story.html"],
         "created_at": "2017-07-16 03:04:19.708168",
         "updated_at": "2017-07-16 03:46:32.471891"
     },
